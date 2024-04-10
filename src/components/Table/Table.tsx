@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './Table.module.sass'
 
 export default function Table() {
